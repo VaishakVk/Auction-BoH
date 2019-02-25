@@ -1,5 +1,7 @@
 # Auction API
 
+## URI Endpoint - https://vk-auction-boh.herokuapp.com/
+
 ## Authentication
 Basic Authentication is implemented.
 Pass the Email and Password in Authorization section with Type Basic Auth
